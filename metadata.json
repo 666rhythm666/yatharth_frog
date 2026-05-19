@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Frog 3D",
+  "description": "Flappy Frog 3D - Ultimate Edition. Tap to jump, capture insects to score, and unlock pond, night, or desert landscapes in a fully interactive 3D environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
